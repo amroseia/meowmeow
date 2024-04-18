@@ -72,6 +72,13 @@ h1 {
 	min-width: 480px;
 }
 
+@media only screen and (min-width: 320px) {
+	.aboutme-column {
+		padding: 2rem;
+		max-width: 400px;
+	}
+}
+
 .cat-carter {
 	max-width:436px;
 	height: auto;
