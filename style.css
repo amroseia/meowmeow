@@ -12,11 +12,14 @@ body, html {
 .navbar-links {
     font-size: 2rem;
     color: #230903;
-    margin-right: 20px; 
 }
 
 .navbar-links:hover {
 	color: #380E05;
+}
+
+.navbar-item-margin {
+	margin-right: 20px;
 }
 
 /* Slogan: Meow your way to happiness! */
