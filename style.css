@@ -1,0 +1,252 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	font-family: "Work Sans", sans-serif;
+	background-color: #FFDBDA;
+}
+
+/* Navbar social media icons */
+.navbar-links {
+	margin-right: 20px;
+	font-size: 2rem;
+	color: #230903;
+}
+
+.navbar-links:hover {
+	color: #380E05;
+}
+
+/* Slogan: Meow your way to happiness! */
+h1 {
+	font-size: 4rem;
+	font-weight: 800;
+	color: #DC6904;
+}
+
+.buffer {
+	height: 1rem;
+}
+
+/* Button: meow (Newsletter redirect) */
+.btn {
+	font-weight: 800;
+	border-radius: 300px;
+	text-transform: lowercase;
+}
+
+.btn-primary {
+	background-color: #C60F7B !important;
+	border-color: #C60F7B !important;
+	color: #FFDBDA !important;
+}
+
+.btn-primary:hover {
+  background-color: #BE0E75 !important;
+  border-color: #BE0E75 !important;
+  color: #FFDBDA !important;
+}
+
+ .btn-primary:active {
+  background-color: #BE0E75;
+  border-color: #BE0E75;
+  color: #FFDBDA;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+/* About */
+
+.aboutme-container {
+	background-color: #230903;
+}
+
+.aboutme-column {
+	padding: 2rem;
+	min-width: 500px;
+}
+
+.cat-carter {
+	max-width:436px;
+	height: auto;
+}
+
+h2 {
+	font-size: 3rem;
+	font-weight: 700;
+	color: #DC6904;
+}
+
+.pink {
+	color: #C60F7B;
+}
+
+.secondp {
+	color: #FFDBDA;
+}
+
+p {
+	color: #FFDBDA;
+}
+
+a {
+	color: #c60f7b;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #BE0E75;
+	text-decoration: none;
+}
+
+a:visited {
+	#DC6904;
+	text-decoration: none;
+}
+
+a:active {
+    color: #c60f7b; 
+    text-decoration: none;
+}
+
+/* How It Works - Title */
+
+.howitworks-title-container {
+	background-color: #230903;
+}
+
+.howitworks-title-container .buffer {
+	height: 5rem;
+}
+
+/* How It Works - Columns */
+
+.howitworks-columns-container {
+	background-color: #230903;
+	padding: 2rem;
+}
+
+.howitworks-column {
+	background-color: #FFDBDA;
+	padding: 1rem;
+	margin: 1rem 1rem;
+	border-radius: 15px;
+	overflow: hidden;
+	word-wrap: break-word;
+	min-width: 200px;
+}
+
+.howitworks-img {
+	max-width: 80px;
+	height: auto;
+}
+
+h3 {
+	font-size: 2rem;
+	color: #230903;
+}
+
+.howitworks-paragraph {
+	color: #230903;
+	font-size: 1rem;
+}
+
+/* Community CTA*/
+
+.community-cta-container {
+	background-color: #C60F7B;
+}
+
+.community-cta-column {
+	padding: 1rem;
+}
+
+.community-cta-h3 {
+	color: #FFDBDA;
+}
+
+.btn-secondary {
+	background-color: #DC6904 !important;
+	border-color: #DC6904 !important;
+	color: #FFDBDA !important;
+	margin: 0 1rem;
+}
+
+.btn-secondary:hover {
+  background-color: #C85F04 !important;
+  border-color: #C85F04 !important;
+  color: #FFDBDA !important;
+}
+
+ .btn-secondary:active {
+  background-color: #DC6904;
+  border-color: #DC6904;
+  color: #FFDBDA;
+}
+
+/* Meowstagram - Title */
+.meowstagram-title-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #CDDFA0;
+}
+
+/*Seventh Section*/
+.meowstagram-images-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: #CDDFA0;
+}
+
+.meowstagram-image {
+	width: 300px; 
+	height: 300px;
+	margin: 0px;
+	padding: 0px;
+	transition: .2s;
+}
+
+.meowstagram-image:hover {
+ filter: brightness(80%);
+ transition: .2s;
+}
+
+/*Footer*/
+.footer-container {
+	background-color: #FFDBDA;
+	margin: 0px;
+}
+
+.footer-logo {
+  display: block;
+  margin: 0px auto;
+  transition: 1s ease;
+}
+
+.footer-logo:hover {
+	-webkit-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+	transition: 1s ease;
+}
+
+.footer-text {
+	color: #230903;
+}
+
+.footer-navbar {
+	list-style-type: none;
+	color: #000000
+}
+
+.footer-links {
+	color: #000000;
+}
+
+.footer-navbar-item {
+	font-size: 1rem;
+	margin-right: 1rem;
+}

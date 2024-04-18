@@ -1,0 +1,60 @@
+body, html {
+	width: 100%;
+	height: 100%;
+	font-family: "Work Sans", sans-serif;
+	background-color: #FFDBDA;
+}
+
+/* Navbar social media icons */
+.navbar-nav .nav-item {
+	margin-right: 20px;
+}
+
+.bi{
+	font-size: 2rem;
+	color: #230903;
+}
+
+/* Let's Meow Over the World! */
+
+a {
+	color: #c60f7b;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #BE0E75;
+	text-decoration: none;
+}
+
+a:visited {
+	#DC6904;
+	text-decoration: none;
+}
+
+a:active {
+    color: #c60f7b; 
+    text-decoration: none;
+}
+
+h1 {
+	font-size: 4rem;
+	font-weight: 800;
+	color: #DC6904;
+}
+
+.buffer {
+	height: 1rem;
+}
+
+p {
+	color: #230903;
+}
+
+.catboycarter {
+	color: #C60F7B;
+}
+
+.orange {
+	color: #DC6904;
+}
